@@ -1,6 +1,6 @@
 ## Demo
 <!-- include a gif file -->
-<img src="https://github.com/StarkPrince/grocery_list/blob/master/assests/Document.gif?raw=true" alt="Document" width="500" height="500">
+<img src="https://github.com/StarkPrince/grocery_list/blob/master/assests/Document.gif?raw=true" alt="Document" width="750" height="500">
 
 ## External Libraries
 None
