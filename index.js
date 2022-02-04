@@ -162,7 +162,7 @@ const appendItem = (item, index) =>
     itemRow.appendChild(itemEdit);
     itemRow.appendChild(itemDelete);
 
-    deleteButton.addEventListener('click', (_) =>
+    deleteButton.addEventListener('click', () =>
     {
         itemList.splice(index, 1);
         displayItems();
@@ -195,7 +195,3 @@ deleteAll.addEventListener('click', () =>
 });
 
 displayItems();
-
-
-
-
